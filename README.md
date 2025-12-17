@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-Access the app at `http://localhost:5173`
+Access the app at `http://localhost:1420/`
 
 ### Desktop App (Tauri)
 
@@ -57,11 +57,6 @@ The app can run in the browser for demonstration purposes. However, the **primar
 - Native OS integration
 - More secure API key handling
 
-## Limitations
-
-- **Browser demo exposes API key** – The web version includes the API key in client-side code. Use only for testing/demo purposes.
-- **Desktop version recommended** – For production use, the Tauri desktop app provides better security and performance.
-
 ## Project Structure
 
 ```
@@ -72,3 +67,4 @@ src/
 ├── utils/              # Audio processing utilities
 └── types/              # TypeScript type definitions
 ```
+
