@@ -1,6 +1,7 @@
 # Wispr Flow – Voice-to-Text Desktop App
 
 A functional clone of Wispr Flow built as a technical assignment, demonstrating real-time voice-to-text transcription using modern web technologies packaged as a desktop application.
+Try it now: https://wispr-clone-beryl.vercel.app/
 
 ## Tech Stack
 
@@ -67,4 +68,5 @@ src/
 ├── utils/              # Audio processing utilities
 └── types/              # TypeScript type definitions
 ```
+
 
